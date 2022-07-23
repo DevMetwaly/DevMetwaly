@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 🌱 I’m currently learning **vuejs**
+- 🌱 I’m currently learning **nextjs**, **react-native**
 
 - 💬 Ask me about **reactjs**
 
