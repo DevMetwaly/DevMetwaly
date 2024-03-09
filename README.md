@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman <img height="40" src="https://cdn3.emoji.gg/emojis/7945-heart.png"></h1>
-<h3 align="center">A passionate Fullstack web developer from Egypt</h3>
+<h3 align="center">A passionate Front-end web developer from Egypt</h3>
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **front-end projects**
 
-- 🌱 I’m currently learning **nextjs**, **react-native**
+- 🌱 I’m currently learning **Vue.js**, **unit testing**
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **reactjs**, **Next.js**, and **Angular**
 
 - 📫 How to reach me: **abdohamdymetwaly@gmail.com**
 
-- ⚡ What I like to do: **I like so much football and online games ...and coding of course**
+- ⚡ What I like to do: **I like so much football, GYM, and online games ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
